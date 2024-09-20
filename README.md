@@ -1,1 +1,1 @@
-# BANASAN_clevertanderson-WIS_Repository for WIS
+Repository for WIS
